@@ -83,3 +83,5 @@ chmod +x docker_disk_usage.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_disk_usage](https://github.com/user-attachments/assets/bb1ea213-d73d-4c6f-9c02-cf2dafb52048)

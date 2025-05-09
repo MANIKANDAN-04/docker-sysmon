@@ -84,3 +84,5 @@ chmod +x docker_eventsandwarnings.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_eventsandwarnings](https://github.com/user-attachments/assets/66877593-d56d-4051-9929-f242d5a503aa)

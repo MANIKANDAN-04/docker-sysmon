@@ -82,3 +82,5 @@ chmod +x docker_dangling.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_dangling](https://github.com/user-attachments/assets/20dc3be8-8404-48a0-8dfe-49767f9bb5a5)

@@ -88,3 +88,5 @@ chmod +x docker_cleanup_report.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_cleanup_report](https://github.com/user-attachments/assets/6cae3ca1-1533-4d46-bee8-1682ad617bdf)

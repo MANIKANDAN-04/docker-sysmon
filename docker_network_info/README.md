@@ -65,3 +65,5 @@ chmod +x docker_network_info.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_network_info](https://github.com/user-attachments/assets/673a7515-3c58-4c2c-bcf9-80164cf35f7c)

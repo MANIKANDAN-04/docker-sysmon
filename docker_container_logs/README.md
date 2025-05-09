@@ -77,3 +77,5 @@ chmod +x docker_container_logs.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_container_logs](https://github.com/user-attachments/assets/bdf25109-681d-486f-9fbc-3870f9a4061c)

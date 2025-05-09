@@ -85,3 +85,5 @@ docker volume prune
 ---
 
 ## 📸 Sample Image
+
+![docker_volumes](https://github.com/user-attachments/assets/e224d5ef-9191-4a4a-b3fc-521bf6d7a2bd)

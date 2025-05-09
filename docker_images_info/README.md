@@ -65,3 +65,5 @@ chmod +x docker_images_info.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_images_info](https://github.com/user-attachments/assets/20c647fa-1c16-4c34-8050-3d4adc140fe8)

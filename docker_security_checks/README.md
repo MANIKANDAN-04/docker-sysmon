@@ -76,3 +76,5 @@ This script **does not modify anything**—it is safe to run and purely informat
 ---
 
 ## 📸 Sample Image
+
+![docker_security_checks](https://github.com/user-attachments/assets/a711842f-9213-4900-af83-d982b71a803b)

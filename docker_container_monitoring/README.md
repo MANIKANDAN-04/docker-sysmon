@@ -84,3 +84,5 @@ chmod +x docker_container_monitoring.sh
 ---
 
 ## 📸 Sample Image
+
+![docker_container_monitoring](https://github.com/user-attachments/assets/39ace6c1-99b4-40b5-8ea7-fcda76aa74a4)
